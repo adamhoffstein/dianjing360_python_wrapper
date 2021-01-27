@@ -12,7 +12,7 @@ Then, create a virtual environment and set the following environment variables:
 
 (only if you are using AWS)\
 360_GOOGLE_SHEET: The Google sheet you want to export the data to\
-GDRIVE_API_CREDENTIALS: Your Google drive api credentials. Check pygsheets's documentation for service_account_env_var for more information\
+GDRIVE_API_CREDENTIALS: Your Google drive api credentials. Check pygsheets's documentation for service_account_env_var for more information
 
 (required)\
 360_ACCOUNT\
